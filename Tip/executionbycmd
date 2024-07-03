@@ -1,1 +1,12 @@
-추후 업로드
+CMD를 열때는 
+프로젝트명 폴더 한단계 위에서 실행하시고
+
+CMD에 다음과 같이 입력합니다.
+java -classpath 프로젝트명 패키지명.클래스명
+
+java -classpath Team ManagementSystem.TypeConversion
+
+(이건 제가 했던 프로젝트와 패키지,클래스명이니 님꺼에 맞춰서 실행하세요)
+프로젝트명 : Team
+패키지명 : ManagementSystem
+클래스명 : TypeConversion
